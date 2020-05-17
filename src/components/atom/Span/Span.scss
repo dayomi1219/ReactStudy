@@ -1,0 +1,36 @@
+$primary_1: #b2ad7f;
+$primary_2: #0e0e10;
+$primary_3: #53535f;
+$primary_4: #9147ff;
+
+.SmallSpan {
+  color: $primary_3;
+  font-size: 13px;
+}
+
+.MiddleSpan {
+  color: $primary_2;
+  font-weight : bold;
+  font-size: 15px;
+}
+
+.LargeSpan {
+  color: $primary_2;
+  font-weight : bold;
+  font-size: 20px;
+}
+
+.LargeStrongSpan {
+  color: $primary_4;
+  font-weight : bold;
+  font-size: 20px;
+}
+
+.SmallSpan:hover {
+  color: $primary_4;
+}
+
+.MiddleSpan:hover {
+  color: $primary_4;
+}
+

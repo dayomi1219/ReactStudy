@@ -1,0 +1,37 @@
+
+.GreyButton {
+    height : 30px;
+    color : black;
+    background-color :#ebebeb;
+    border-radius : 25%;
+    border-style: solid;
+}
+
+.GreyButton:hover {
+    background-color :lightgrey;
+}
+
+
+.PurpleButton {
+    height : 30px;
+    color : white;
+    background-color : #b84dfa;
+    border-radius : 25%;
+    border-style: solid;
+}
+.PurpleButton:hover {
+    background-color : #752471;
+}
+
+.SmallGreyButton {
+    font-size : 6px;
+    height : 16px;
+    color : black;
+    background-color : #ebebeb;
+    border-radius : 25%;
+    border-style: solid;
+}
+.SmallGreyButton:hover {
+    background-color :lightgrey;
+}
+
